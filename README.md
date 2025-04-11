@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcelo Luiz Steffen Mariath
+# 👋 Hi, I'm Marcelo Mariath
 
 ### 💼 Lead Quality Engineer | Test Automation Specialist | Software Quality Advocate
 
