@@ -22,7 +22,7 @@ I enjoy transforming manual processes into scalable, automated solutions and men
 ## 🛠 Tech Stack & Tools
 
 ### 🧪 Testing & Automation
-- **Frameworks**: Cypress, Selenium, REST Assured, Cucumber, JUnit, NUnit, SoapUI
+- **Frameworks**: Cypress, Selenium, REST Assured, RESTSharp, Cucumber, JUnit, NUnit
 - **Reporting**: Xray for Jira, Allure Reports, Cucumber Reports
 
 ### 🧰 DevOps & CI/CD
@@ -38,31 +38,6 @@ I enjoy transforming manual processes into scalable, automated solutions and men
 
 ### 📋 Project & Test Management
 - Jira + Xray, Trello, TestLink, TFS
-
----
-
-## 👨‍💻 Professional Experience
-
-### 🏢 **Easypay – Payment Institution**  
-**Lead Quality Engineer** *(Aug 2024 – Present)*  
-**Senior Quality Engineer** *(Aug 2022 – Jul 2024)*  
-- Built and executed automated tests across UI, API, and integration layers.
-- Integrated automated pipelines with Jira using Xray plugin for real-time test result syncing.
-- Produced actionable reports using Allure and Cucumber Reports.
-- Oversaw Kafka-based event flows and monitored services using Grafana.
-- Promoted a continuous quality mindset across squads.
-
-### 🏢 **UNO** – QA Test Engineer *(Feb 2020 – Jul 2022)*  
-- Defined the test architecture and implemented BDD-style automation with Selenium and Java.
-- Established CI pipelines via Jenkins and GitHub Actions.
-
-### 🏢 **CWI Software** – Test Analyst *(Aug 2019 – Dec 2019)*  
-- Performed UI, API, and performance testing.
-- Built automation scripts in Selenium and tested APIs with Postman and SoapUI.
-
-### 🏢 **Digicon S/A** – Test Analyst *(Apr 2018 – Aug 2019)*  
-- Developed test suites for firmware and middleware.
-- Focused on backend and embedded software validation.
 
 ---
 
